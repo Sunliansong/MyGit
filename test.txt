@@ -19,3 +19,5 @@ Creating a new branch is quick & simple
 -----
 branch_two
 >>>>>>> feature1
+------
+--no-ff
